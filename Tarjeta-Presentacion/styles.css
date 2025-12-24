@@ -1,3 +1,21 @@
 body{
-    background-color: aquamarine;
+    background-color: #f0f0f0;
+}
+.fa-github{
+    color: black;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.fa-linkedin{
+    color: #0A66C2;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.fa-message{
+    color: #0084FF;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
