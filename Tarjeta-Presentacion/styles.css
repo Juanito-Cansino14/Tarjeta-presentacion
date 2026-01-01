@@ -1,5 +1,5 @@
 body{
-    background-color: #f0f0f0;
+    background-color:#CBD6E3;
 }
 .fa-github{
     color: black;
@@ -20,8 +20,13 @@ body{
     margin-left: 10px;
 }
 .fa-at{
-    color: #D44638;
+    color: black;
     font-size: 40px;
     margin-top: 10px;
     margin-left: 10px;
+}
+.profile{
+    
+    border-radius: 50%;
+    margin: 20px auto;
 }
