@@ -1,6 +1,15 @@
 body{
     background-color:#CBD6E3;
 }
+.card{
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
 .fa-github{
     color: black;
     font-size: 40px;
