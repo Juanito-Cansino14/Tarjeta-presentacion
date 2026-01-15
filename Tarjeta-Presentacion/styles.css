@@ -23,6 +23,8 @@ body{
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: default;
 }
 .social-media{
     text-align: center;
@@ -34,11 +36,17 @@ body{
     margin-top: 10px;
     margin-left: 10px;
 }
+.fa-github:hover{
+    color: #6e5494;
+}
 .fa-linkedin{
     color: #0A66C2;
     font-size: 40px;
     margin-top: 10px;
     margin-left: 10px;
+}
+.fa-linkedin:hover{
+    color: #1DA1F2;
 }
 .fa-message{
     color: #0084FF;
@@ -46,11 +54,17 @@ body{
     margin-top: 10px;
     margin-left: 10px;
 }
+.fa-message:hover{
+    color: #005BB5;
+}
 .fa-at{
     color: black;
     font-size: 40px;
     margin-top: 10px;
     margin-left: 10px;
+}
+.fa-at:hover{
+    color: #6e5494;
 }
 .cover-photo{
     width: 100%;
