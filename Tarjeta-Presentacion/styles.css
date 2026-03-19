@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color :#f0f2f5;
     color: black;
@@ -91,6 +96,13 @@ body{
     list-style-type: none;
     padding: 0;
     text-align: center;
+    margin: 10px 10px;
+}
+.portfolio ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin: 10px 10px;
 }
 @media (max-width: 768px) {
     .tarjeta-titulo {
